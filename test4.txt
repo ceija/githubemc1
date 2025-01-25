@@ -1,4 +1,4 @@
 steps
 git add test4.txt
 git commit -m "test4 is added"
-git push main origin
+git push origin main
